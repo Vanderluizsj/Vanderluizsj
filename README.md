@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **Vanderluizsj/Vanderluizsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h1 align="center">Hi 👋, I'm Vanderluiz</h1>
 <h3 align="center">A passionate .Net developer from Brazil</h3>
