@@ -9,7 +9,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanderluizsj" alt="vanderluizsj" /></a> </p>
 -->
-- 🔭 I’m currently working on [MegaGyn](https://github.com/Vanderluizsj/MegaGyn)
+- 🔭 I’m currently working on <a href="https://github.com/Vanderluizsj/MegaGyn">MegaGyn</a>
 
 - 🌱 I’m currently learning **Angular**
 
