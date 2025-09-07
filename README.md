@@ -12,6 +12,8 @@
 - 🔭 I’m currently working on <a href="https://vanderluizsj.github.io/PortifolioReact/">Portifolio</a>
 
 - 🌱 I’m currently learning **C#**
+  
+- 👨‍💻 I’m currently working as a **Support Analyst**
 
 - 💬 Ask me about **C#**
 
