@@ -17,7 +17,7 @@ Projetos Academia do Programador
 </p>
 
 <p align="center">
-👨‍💻 I’m currently working as a <strong>Support Analyst</strong>
+👨‍💻 I’m currently working as a <strong>Technical business executive.</strong>
 </p>
 
 <p align="center">
