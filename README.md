@@ -75,11 +75,6 @@ Projetos Academia do Programador
 </table>
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanderluizsj&show_icons=true&locale=en" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanderluizsj&layout=compact&locale=en" />
-</p>
-
-<p align="center">
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanderluizsj" />
 </p>
 
