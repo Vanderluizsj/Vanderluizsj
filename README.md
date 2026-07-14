@@ -7,7 +7,7 @@
 
 <p align="center">
 🔭 I’m currently working on 
-<a href="https://github.com/Vanderluizsj/AcademiaDoProgramadorBackEnd">
+<a href="https://github.com/Vanderluizsj/ControleDeMedicamentos">
 Projetos Academia do Programador
 </a>
 </p>
